@@ -6,6 +6,8 @@
 # Presentation 
 **A collection of methods to analyse graphs**
 In this project we define a Python Class able to create graphs and apply several methods.
+
+
 **Main Features**
 * Hamiltonian Cycle
 * Is Eulerian
