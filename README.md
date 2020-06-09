@@ -17,7 +17,7 @@ In this project we define a Python Class able to create graphs and apply several
 * Prims Minimum Spanning Tree Algorithm
 
 # How to use it 
-## Consultation Only
+## Consultation
 The `demo_graphizi.iypnb` file is a notebook that contains all the workflow for the project, with details, comments and results, therefore feel free to use it as an example and reuse some pieces of codes in your own projects.
 
 ## Executing the notebook
