@@ -1,7 +1,7 @@
 # graph_analysis_library
 
 ### Louis Ulmer - Data Scientist 
-#### Contact : ulmerlouis@gmail.com
+#### Contact : ulmerlouispro@gmail.com
 
 # Presentation 
 **A collection of methods to analyse graphs**
